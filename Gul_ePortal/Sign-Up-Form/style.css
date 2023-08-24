@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(126, 126, 160);
+    color:white;
+    text-align: center;
+    margin-top: 10%;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+form input{
+ padding: 10px 20px;
+ width: 60vh;
+}
+ label{
+    font-size: 20px;
+}
+button{
+    padding: 10px 15px ;
+    border:1px groove;
+}
